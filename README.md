@@ -8,17 +8,17 @@ Reach me : tejasgorde87@gmail.com
 
 Tech Stack:
 
-CSS3 
-HTML5 
-JavaScript 
-Java 
-Pyhton 
-React 
-TailwindCSS 
-ReactNative 
-Express.js 
-NodeJS 
-MongoDB 
+CSS3, 
+HTML5, 
+JavaScript, 
+Java, 
+Pyhton, 
+React, 
+TailwindCSS, 
+ReactNative, 
+Express.js, 
+NodeJS, 
+MongoDB, 
 MySql 
 
 
